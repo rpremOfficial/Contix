@@ -39,7 +39,7 @@ You can use this figma link to view, duplicate, modify the design.
 
 ## Contributing
 
-Coming Soon...
+Coming today
 
 you will be able to see `contributing.md` for geting started soon.
 
